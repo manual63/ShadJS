@@ -4,7 +4,6 @@ app.init = function() {
 	/** Init Routes **/
 	this.loadRoute();
 	this.routeListener();
-
 }
 
 app.getTemplate = function( path, element ) {
